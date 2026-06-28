@@ -1,6 +1,6 @@
 ---
 name: bazi
-description: 八字命理分析系统。根据出生年月日时排盘，分析原局格局、大运走势、流年吉凶、流月应期。遵循"原局→大运→流年→流月"的分析顺序，输出专业命理报告。
+description: 八字命理分析 Skill。根据出生年月日时排盘，分析原局格局、大运走势、流年吉凶、流月应期。遵循"原局→大运→流年→流月"的分析顺序，输出专业命理报告。
 license: MIT
 metadata:
   author: Claude Code
@@ -9,7 +9,7 @@ metadata:
   dependencies: "无"
 ---
 
-# 八字命理分析系统
+# 八字命理分析 Skill
 
 ---
 
