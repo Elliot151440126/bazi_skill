@@ -6,7 +6,7 @@
 
 ```bash
 # 克隆到 Claude Code 的 skills 目录
-git clone git@github.com:Elliot151440126/bazi_skill.git ~/.agents/skills/bazi
+git clone git@github.com:ElliotWillBeRich/bazi_skill.git ~/.agents/skills/bazi
 ```
 
 安装后在 Claude Code 中直接输入四柱八字即可触发：
